@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/static/js/main.c547996b.chunk.js",
-    "main.js.map": "/static/js/main.c547996b.chunk.js.map",
+    "main.js": "/static/js/main.0b7e84d0.chunk.js",
+    "main.js.map": "/static/js/main.0b7e84d0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8f06b42f.js",
     "runtime-main.js.map": "/static/js/runtime-main.8f06b42f.js.map",
-    "static/js/2.d408ffa7.chunk.js": "/static/js/2.d408ffa7.chunk.js",
-    "static/js/2.d408ffa7.chunk.js.map": "/static/js/2.d408ffa7.chunk.js.map",
+    "static/js/2.10116685.chunk.js": "/static/js/2.10116685.chunk.js",
+    "static/js/2.10116685.chunk.js.map": "/static/js/2.10116685.chunk.js.map",
     "static/js/3.f1320f5e.chunk.js": "/static/js/3.f1320f5e.chunk.js",
     "static/js/3.f1320f5e.chunk.js.map": "/static/js/3.f1320f5e.chunk.js.map",
     "index.html": "/index.html",
-    "static/js/2.d408ffa7.chunk.js.LICENSE.txt": "/static/js/2.d408ffa7.chunk.js.LICENSE.txt",
+    "static/js/2.10116685.chunk.js.LICENSE.txt": "/static/js/2.10116685.chunk.js.LICENSE.txt",
     "static/media/Footer Adornment.09b93473.svg": "/static/media/Footer Adornment.09b93473.svg",
     "static/media/aj.svg": "/static/media/aj.858d5ae4.svg",
     "static/media/apoorva.bf268050.jpg": "/static/media/apoorva.bf268050.jpg",
@@ -56,7 +56,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.8f06b42f.js",
-    "static/js/2.d408ffa7.chunk.js",
-    "static/js/main.c547996b.chunk.js"
+    "static/js/2.10116685.chunk.js",
+    "static/js/main.0b7e84d0.chunk.js"
   ]
 }
