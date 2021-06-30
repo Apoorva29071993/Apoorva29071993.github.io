@@ -39,7 +39,7 @@ const useStyles = makeStyles(theme => ({
      },
      heading : {
       textAlign : "center" ,
-      fontSize : "4em"
+      fontSize : "2em"
      }
 }));
 

@@ -13,7 +13,7 @@ import { useTheme } from '@material-ui/core';
 
 const useStyles = makeStyles(theme => ({
     mainContainer: {
-        backgroundColor : "#fc4c3f"
+        backgroundColor : "grey"
     },
     viewButton : {
         color : "white",

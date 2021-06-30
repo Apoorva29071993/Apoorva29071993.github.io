@@ -113,7 +113,7 @@ const useStyles = makeStyles(theme => ({
         marginLeft : '3rem',
         marginRight : '3rem' ,
         marginBottom : "3rem",
-        backgroundColor : "#20c9a2",
+        backgroundColor : "black",
         borderRadius : "0rem" ,
        // backgroundImage: `url(${revolutionBackground})`,
         [theme.breakpoints.down("sm")]: {
