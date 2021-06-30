@@ -8,11 +8,11 @@ import Home from './Home.jsx';
 import About from './About.jsx';
 import MyProjects from './MyProjects.jsx';
 import Skills from './Skills.jsx';
-import Cauvery from './Cauvery.jsx';
+import Peenya from './Peenya.jsx';
 import Contact from './Contact.jsx';
 import SignIn from './SignIn.jsx';
 import ECommerce from './ECommerce.jsx';
-import Nisarga from './Nisarga.jsx';
+import Jakati from './Jakati.jsx';
 import Hobbies from './Hobbies.jsx';
 
 function App() {
@@ -28,9 +28,9 @@ function App() {
         <Switch>
           <Route exact path="/"><Home value={value} setValue={setValue}/></Route> 
           <Route exact path="/myprojects"><MyProjects/></Route>
-          <Route exact path="/cauvery" render={()=><Cauvery />} />
+          <Route exact path="/peenya" render={()=><Peenya />} />
           <Route exact path="/ecommerce" render={()=><ECommerce/>} />
-          <Route exact path="/nisarga" render={()=><Nisarga/>} />
+          <Route exact path="/jakati" render={()=><Jakati/>} />
           <Route exact path="/about" component={About} />
           <Route exact path="/hobbies" render={()=><Hobbies/>} />
           <Route exact path="/contact" render={()=><Contact />} />

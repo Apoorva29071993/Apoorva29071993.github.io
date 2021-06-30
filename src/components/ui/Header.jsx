@@ -183,9 +183,9 @@ export default function Header(props) {
     }
 
     const menuOptions = [{name : "MyProjects" , link : "/myprojects" , activeIndex : 1 , selectedIndex : 0} ,
-                        {name : "Cauvery Enterprises" , link : "/cauvery" , activeIndex : 1 , selectedIndex : 1} ,
+                        {name : "Peenya Enterprises" , link : "/peenya" , activeIndex : 1 , selectedIndex : 1} ,
                         {name : "Clothes E-Commerce" , link : "/ecommerce" , activeIndex : 1 , selectedIndex : 2} , 
-                        {name : "Nisarga Constructions" , link : "/nisarga" , activeIndex : 1 , selectedIndex : 3}]
+                        {name : "Jakati Constructions" , link : "/jakati" , activeIndex : 1 , selectedIndex : 3}]
 
     const routes = [{name : "Home" , link : "/" , activeIndex : 0} ,
 

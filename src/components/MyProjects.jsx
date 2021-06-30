@@ -70,7 +70,7 @@ export default function MyProjects(props) {
     return (
         <React.Fragment>
             <Grid container direction="column" className={classes.mainContainer}>
-                {/* Cauvery Start */}
+                {/* Peenya Start */}
                 
                 <Grid item>
                     <Grid container direction="row"
@@ -78,7 +78,7 @@ export default function MyProjects(props) {
                     className={classes.projectsContainer}>
                         <Grid item style={{marginLeft : matchesSM ? 0 : "5em" , textAlign : matchesSM ? "center" : undefined}}>
                             <Typography variant="h4">
-                                Cauvery Enterprises
+                                Peenya Enterprises
                             </Typography>
                             <Typography variant="subtitle1">
                                 Wood Packing Industry
@@ -86,7 +86,7 @@ export default function MyProjects(props) {
                             <Typography variant="subtitle1">
                                 All types of boxes
                             </Typography>
-                            <Button variant="outlined" component={Link} to="/cauvery" className={classes.viewButton}>
+                            <Button variant="outlined" component={Link} to="/peenya" className={classes.viewButton}>
                                 <span style={{marginRight : 10}}>View Details</span>
                             </Button>
                         </Grid>
@@ -96,7 +96,7 @@ export default function MyProjects(props) {
                         </Grid>
                     </Grid>
                 </Grid>
-                {/* Cauvery End */}
+                {/* Peenya End */}
 
 
                 {/* E-Commerce Start */}
@@ -131,7 +131,7 @@ export default function MyProjects(props) {
                 {/* E-Commerce End */}
 
 
-                {/* Nisarga Start */}
+                {/* Jakati Start */}
                 
                 <Grid item>
                     <Grid container direction="row"
@@ -143,7 +143,7 @@ export default function MyProjects(props) {
                             textAlign : matchesSM ? "center" : undefined,
                             marginBottom : matchesSM ? 0 :"5em"}}>
                             <Typography variant="h4">
-                                Nisarga Constructions
+                                Jakati Constructions
                             </Typography>
                             <Typography variant="subtitle1">
                                 Buildings/Apartments
@@ -151,7 +151,7 @@ export default function MyProjects(props) {
                             <Typography variant="subtitle1">
                                 Group of Engineers
                             </Typography>
-                            <Button variant="outlined" component={Link} to="/nisarga" className={classes.viewButton}>
+                            <Button variant="outlined" component={Link} to="/jakati" className={classes.viewButton}>
                                 <span style={{marginRight : 10}}>View Details</span>
                             </Button>
                         </Grid>
@@ -161,7 +161,7 @@ export default function MyProjects(props) {
                         </Grid>
                     </Grid>
                 </Grid>
-                {/* Nisarga End */}
+                {/* Jakati End */}
 
             </Grid>
         </React.Fragment>

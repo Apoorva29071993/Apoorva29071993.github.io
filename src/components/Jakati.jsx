@@ -49,7 +49,7 @@ const useStyles = makeStyles(theme => ({
      }
 }));
 
-export default function Nisarga(props) {
+export default function Jakati(props) {
 
     const classes = useStyles();
 
@@ -74,7 +74,7 @@ export default function Nisarga(props) {
 
             <Grid item style={{marginTop : "5em"}}>
                 <Typography variant="h2" className={classes.heading}>
-                          Nisarga Constructions
+                          Jakati Constructions
                 </Typography>
             </Grid>
 

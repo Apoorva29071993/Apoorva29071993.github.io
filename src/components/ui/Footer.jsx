@@ -84,7 +84,7 @@ export default function Footer(props) {
                         <Grid item component={Link} to="/cauvery" 
                         onClick={() => {props.setValue(1); props.setSelectedIndex(1)}} 
                         className={classes.link}>
-                            Cauvery Enterprises
+                            Pennya Enterprises
                         </Grid>
                         <Grid item component={Link} to="/ecommerce" 
                         onClick={() => {props.setValue(1); props.setSelectedIndex(2)}}
@@ -94,7 +94,7 @@ export default function Footer(props) {
                         <Grid item component={Link} to="/nisarga" 
                         onClick={() => {props.setValue(1); props.setSelectedIndex(3)}}
                         className={classes.link}>
-                            Nisarga Constructions
+                            Jakati Constructions
                         </Grid>
                     </Grid>
                 </Grid>

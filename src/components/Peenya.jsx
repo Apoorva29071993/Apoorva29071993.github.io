@@ -43,7 +43,7 @@ const useStyles = makeStyles(theme => ({
      }
 }));
 
-export default function Cauvery(props) {
+export default function Peenya(props) {
 
     const classes = useStyles();
 
@@ -89,7 +89,7 @@ export default function Cauvery(props) {
 
                 <Grid item style={{marginTop : "2em"}}>
                 <Typography variant="h2" className={classes.heading}>
-                          Cauvery Enterprises
+                          Peenya Enterprises
                 </Typography>
                 </Grid>
 
